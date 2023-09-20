@@ -11,7 +11,7 @@ desesperanza ante las tareas :laughing:.</p>
 
 ### Asignaturas
 
-> Las asignaturas irán *"creciendo"* según pueda añadir material. Paciencia :innocent:
+> Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  Paciencia :innocent:
 La estructura del temario se divide en:
 1. Big Data Aplicado
 2. Modelos de Inteligencia Artificial
