@@ -1,5 +1,6 @@
 # IABD
 ## Especialización en Inteligencia Artificial y Big Data
+![Inteligencia Artificial y Big Data](/artificial-intelligence-4694502_1280.jpg "Inteligencia Artificial")
 ---
 <p>Tras realizar durante el curso 2022/2023 esta especialización, he creado este repositorio 
 con el fin de tener a mano toda la información recibida para poder refrescar conocimientos, 
@@ -13,11 +14,11 @@ desesperanza ante las tareas :laughing:.</p>
 
 > Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  Paciencia :innocent:
 La estructura del temario se divide en:
-1. Big Data Aplicado
-2. Modelos de Inteligencia Artificial
-3. Programación de Inteligencia Artificial
-4. Sistemas de Aprendizaje Automático
-5. Sistemas de Big Data
+1. [Big Data Aplicado](./Big%20Data%20Aplicado/).
+2. [Modelos de Inteligencia Artificial](./Modelos%20De%20Inteligencia%20Artificial/).
+3. [Programación de Inteligencia Artificial](./Programación%20de%20Inteligencia%20Artificial/).
+4. [Sistemas de Aprendizaje Automático](./Sistemas%20de%20Aprendizaje%20Automático/).
+5. [Sistemas de Big Data](./Sistemas%20de%20Aprendizaje%20Automático/).
 
 ### Extras
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
@@ -32,5 +33,5 @@ Si es de utilidad, espero que añadais una :star: a este repo!.
 [![Web](https://img.shields.io/badge/Web-JagMolar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangmuelas@gmail.com)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jagmolar)
-
-
+---
+Imagen de <a href="https://pixabay.com/es/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4694502">Gerd Altmann</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4694502">Pixabay</a>
