@@ -11,7 +11,7 @@ desesperanza ante las tareas :laughing:.</p>
 
 ### Asignaturas
 
-> Las asignaturas irán *creciendo* según pueda añadir material. Paciencia :innocent:
+> Las asignaturas irán *"creciendo"* según pueda añadir material. Paciencia :innocent:
 La estructura del temario se divide en:
 1. Big Data Aplicado
 2. Modelos de Inteligencia Artificial
@@ -29,7 +29,7 @@ Si es de utilidad, espero que añadais una :star: a este repo!.
 
 [![Linkedin: JagMolar](https://img.shields.io/badge/LinkedIn-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
 [![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
-[![Web](https://img.shields.io/badge/Mi-Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)])(mailto:juangmuelas@gmail.com)
+[![Web](https://img.shields.io/badge/:globe_with_meridians:-Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangmuelas@gmail.com)
 
 
