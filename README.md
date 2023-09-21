@@ -2,7 +2,7 @@
 ## Especialización en Inteligencia Artificial y Big Data
 <!-- ![Inteligencia Artificial y Big Data](/artificial-intelligence-4694502_1280.jpg "Inteligencia Artificial") -->
 
-<img src="./artificial-intelligence-4694502_1280.jpg" width="500" />
+<img src="./artificial-intelligence-4694502_1280.jpg" heigth="500" />
 ---
 <p>Tras realizar durante el curso 2022/2023 esta especialización, he creado este repositorio 
 con el fin de tener a mano toda la información recibida para poder refrescar conocimientos, 
