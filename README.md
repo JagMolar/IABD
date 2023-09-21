@@ -1,6 +1,8 @@
 # IABD
 ## Especialización en Inteligencia Artificial y Big Data
-![Inteligencia Artificial y Big Data](/artificial-intelligence-4694502_1280.jpg "Inteligencia Artificial")
+<!-- ![Inteligencia Artificial y Big Data](/artificial-intelligence-4694502_1280.jpg "Inteligencia Artificial") -->
+
+<img src="./artificial-intelligence-4694502_1280.jpg" width="500" />
 ---
 <p>Tras realizar durante el curso 2022/2023 esta especialización, he creado este repositorio 
 con el fin de tener a mano toda la información recibida para poder refrescar conocimientos, 
@@ -12,7 +14,11 @@ desesperanza ante las tareas :laughing:.</p>
 
 ### Asignaturas
 
-> Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  Paciencia :innocent:
+> Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  
+> Paciencia :innocent:
+
+<br />
+
 La estructura del temario se divide en:
 1. [Big Data Aplicado](./Big%20Data%20Aplicado/).
 2. [Modelos de Inteligencia Artificial](./Modelos%20De%20Inteligencia%20Artificial/).
