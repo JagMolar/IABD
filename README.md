@@ -15,6 +15,8 @@ desesperanza ante las tareas :laughing:.</p>
 > Las asignaturas irán *"creciendo"* según pueda añadir material. Los nombres y orden de los temas pueden variar según el centro.  
 > Paciencia :innocent:
 
+#### Tanto las tareas como los exámenes, no dejan de ser parte de mi experiencia. Ser prudentes y tomarlas como base dentro de vuestro aprendizaje. Copiar es fácil (y ser cazad@), no tanto aprender (aprobar) y crecer :smiley:
+
 <br />
 
 La estructura del temario se divide en:
