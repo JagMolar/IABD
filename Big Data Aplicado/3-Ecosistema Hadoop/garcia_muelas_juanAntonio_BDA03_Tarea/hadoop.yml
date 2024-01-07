@@ -1,0 +1,39 @@
+version: "3.8"
+services:
+
+  namenode:
+    image: psroyano/namenode-cliente:v1
+    container_name: namenode
+    hostname: namenode
+    networks:
+      - hadoop
+    ports: 
+      - "9870:9870" #Web Interface NameNode HDFS
+      - "8889:8889" #Jupyter Notebook
+      - "10002:10002" #WebUI HiveServer2
+    tty: true
+    volumes: 
+      - ./notebooks:/media/notebooks #../notebooks Es el directorio local que es compartido con el contenedor
+  
+  yarnmaster:
+    image: psroyano/yarnmaster:v1
+    container_name: yarnmaster
+    hostname: yarnmaster
+    networks:
+      - hadoop
+    ports:
+      - "8088:8088" #Web Interface Resource Manager
+      - "19888:19888" #MapReduce JobHistory Server
+    tty: true
+  
+  datanode:
+    image: psroyano/uhadoop:v1
+    deploy:
+      mode: replicated
+      replicas: 4 #Número de datanodos a desplegar
+    networks:
+      - hadoop
+    tty: true
+  
+networks:
+  hadoop:

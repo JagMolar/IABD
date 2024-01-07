@@ -1,0 +1,43 @@
+Pig Stack Trace
+---------------
+ERROR 1200: Pig script failed to parse: <file percent_recovered.pig, line 36, column 4> Invalid scalar projection: recovered_flights : A column needs to be projected from a relation for it to be used as a scalar
+
+org.apache.pig.impl.logicalLayer.FrontendException: ERROR 1000: Error during parsing. Pig script failed to parse: <file percent_recovered.pig, line 36, column 4> Invalid scalar projection: recovered_flights : A column needs to be projected from a relation for it to be used as a scalar
+	at org.apache.pig.PigServer$Graph.parseQuery(PigServer.java:1833)
+	at org.apache.pig.PigServer$Graph.access$000(PigServer.java:1528)
+	at org.apache.pig.PigServer.parseAndBuild(PigServer.java:461)
+	at org.apache.pig.PigServer.executeBatch(PigServer.java:486)
+	at org.apache.pig.PigServer.executeBatch(PigServer.java:472)
+	at org.apache.pig.tools.grunt.GruntParser.executeBatch(GruntParser.java:171)
+	at org.apache.pig.tools.grunt.GruntParser.processDump(GruntParser.java:777)
+	at org.apache.pig.tools.pigscript.parser.PigScriptParser.parse(PigScriptParser.java:383)
+	at org.apache.pig.tools.grunt.GruntParser.parseStopOnError(GruntParser.java:230)
+	at org.apache.pig.tools.grunt.GruntParser.parseStopOnError(GruntParser.java:205)
+	at org.apache.pig.tools.grunt.Grunt.exec(Grunt.java:81)
+	at org.apache.pig.Main.run(Main.java:500)
+	at org.apache.pig.Main.main(Main.java:175)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hadoop.util.RunJar.run(RunJar.java:323)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:236)
+Caused by: Failed to parse: Pig script failed to parse: <file percent_recovered.pig, line 36, column 4> Invalid scalar projection: recovered_flights : A column needs to be projected from a relation for it to be used as a scalar
+	at org.apache.pig.parser.QueryParserDriver.parse(QueryParserDriver.java:199)
+	at org.apache.pig.PigServer$Graph.parseQuery(PigServer.java:1820)
+	... 18 more
+Caused by: <file percent_recovered.pig, line 36, column 4> Invalid scalar projection: recovered_flights : A column needs to be projected from a relation for it to be used as a scalar
+	at org.apache.pig.parser.LogicalPlanGenerator.var_expr(LogicalPlanGenerator.java:10973)
+	at org.apache.pig.parser.LogicalPlanGenerator.expr(LogicalPlanGenerator.java:10190)
+	at org.apache.pig.parser.LogicalPlanGenerator.expr(LogicalPlanGenerator.java:10068)
+	at org.apache.pig.parser.LogicalPlanGenerator.flatten_generated_item(LogicalPlanGenerator.java:7519)
+	at org.apache.pig.parser.LogicalPlanGenerator.generate_clause(LogicalPlanGenerator.java:17621)
+	at org.apache.pig.parser.LogicalPlanGenerator.foreach_plan(LogicalPlanGenerator.java:16013)
+	at org.apache.pig.parser.LogicalPlanGenerator.foreach_clause(LogicalPlanGenerator.java:15880)
+	at org.apache.pig.parser.LogicalPlanGenerator.op_clause(LogicalPlanGenerator.java:1933)
+	at org.apache.pig.parser.LogicalPlanGenerator.general_statement(LogicalPlanGenerator.java:1102)
+	at org.apache.pig.parser.LogicalPlanGenerator.statement(LogicalPlanGenerator.java:560)
+	at org.apache.pig.parser.LogicalPlanGenerator.query(LogicalPlanGenerator.java:421)
+	at org.apache.pig.parser.QueryParserDriver.parse(QueryParserDriver.java:191)
+	... 19 more
+================================================================================
