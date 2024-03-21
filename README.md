@@ -24,7 +24,7 @@ La estructura del temario se divide en:
 2. [Modelos de Inteligencia Artificial](./Modelos%20De%20Inteligencia%20Artificial/).
 3. [Programación de Inteligencia Artificial](./Programación%20de%20Inteligencia%20Artificial/).
 4. [Sistemas de Aprendizaje Automático](./Sistemas%20de%20Aprendizaje%20Automático/).
-5. [Sistemas de Big Data](./Sistemas%20de%20Aprendizaje%20Automático/).
+5. [Sistemas de Big Data](./Sistemas%20de%20Big%20Data/).
 
 ### Extras
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
