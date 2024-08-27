@@ -30,9 +30,21 @@ La estructura del temario se divide en:
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
  y que iré subiendo.
 <br />
+[Materiales](./Materiales/).
+
+<br />
+
+:zap: [Inteligencia Artificial Avanzada](./Materiales/Inteligencia-Artificial-Avanzada.pdf).
+<br />
+:zap: [Python Pandas CheatSheet](./Materiales/garcia_muelas_juanAntonio_Python_Pandas_Cheatsheet.pdf).
+<br />
+
+---
 Si es de utilidad, espero que añadais una :star: a este repo!.
 
 <br />
+
+---
 
 [![Linkedin: JagMolar](https://img.shields.io/badge/LinkedIn-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
 [![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
