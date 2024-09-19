@@ -35,8 +35,19 @@ Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidad
 <br />
 
 :zap: [Inteligencia Artificial Avanzada](./Materiales/Inteligencia-Artificial-Avanzada.pdf).
+
 <br />
+
 :zap: [Python Pandas CheatSheet](./Materiales/garcia_muelas_juanAntonio_Python_Pandas_Cheatsheet.pdf).
+
+<br />
+
+:zap: [Inteligencia Artificial y Pensamiento Crítico](./Materiales/Inteligencia-Artificial-y-Pensamiento-Crítico.pdf).
+
+<br />
+
+:zap: [MatLab Notes](./Materiales/MatLab-Notes-for-Professionals.pdf).
+
 <br />
 
 ---
