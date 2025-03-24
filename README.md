@@ -25,15 +25,33 @@ La estructura del temario se divide en:
 3. [Programación de Inteligencia Artificial](./Programación%20de%20Inteligencia%20Artificial/).
 4. [Sistemas de Aprendizaje Automático](./Sistemas%20de%20Aprendizaje%20Automático/).
 5. [Sistemas de Big Data](./Sistemas%20de%20Big%20Data/).
+
 <br />
+
 #### Prepara tus exámenes :dizzy:
+
 Accede a diversos modelos de examen que pueden ayudarte a preparar las pruebas presenciales.
 
+<br />
+
 :paperclip: [Prepara tu examen de Big Data Aplicado](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20BDA.pdf).
+
+<br />
+
 :paperclip: [Prepara tu examen de Modelos de Inteligencia Artificial](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20MIA.pdf).
+
+<br />
+
 :paperclip: [Prepara tu examen de Programación de Inteligencia Artificial](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20PIA.pdf).
+
+<br />
+
 :paperclip: [Prepara tu examen de Sistemas de Aprendizaje Automático](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20SAA.pdf).
+
+<br />
+
 :paperclip: [Prepara tu examen de Sistemas de Big Data](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20SBD.pdf).
+<br />
 
 ### Extras
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
